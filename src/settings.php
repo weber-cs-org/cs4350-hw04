@@ -12,7 +12,7 @@ return [
             'twig'          => [
                 'cache'       => __DIR__ . '/../cache/',
                 'debug'       => true,
-                'auto_reload' => true,
+ :               'auto_reload' => true,
             ],
         ],
 
